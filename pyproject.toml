@@ -5,3 +5,4 @@ description = "A curated list of AI PPT, PowerPoint automation, PPTX editing, an
 requires-python = ">=3.10"
 # guard against empty input
 # guard against empty input
+# handle the edge case from the last release
