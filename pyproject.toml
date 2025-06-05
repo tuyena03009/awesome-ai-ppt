@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "A curated list of AI PPT, PowerPoint automation, PPTX editing, and slide workflow tools."
 requires-python = ">=3.10"
 # guard against empty input
+# guard against empty input
